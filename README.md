@@ -1,6 +1,5 @@
-# PakaVerse: 인터렉티브 아트/2022 전시회 '옥타린:연' 전시 작품
-
-# PakaVerse: Interactive Art entry at exhibition 'Octarine: cause' in 2022 
+# PakaVerse: 인터렉티브 아트/2022 전시회 '옥타린:연' 전시 작품  
+*PakaVerse: Interactive Art entry at exhibition 'Octarine: cause' in 2022* 
 -------------------------------------------------------------
 ## Purpose
 2022년 전국 미대연합 전시회 '옥타린:연'에서 출품한 인터렉티브 아트(Interactive art)입니다.  
