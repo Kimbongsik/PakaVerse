@@ -1,5 +1,5 @@
 # PakaVerse: 인터렉티브 아트/2022 전시회 '옥타린:연' 전시 작품
--------------------------------------------------------------
+
 # PakaVerse: Interactive Art entry at exhibition 'Octarine: cause' in 2022 
 -------------------------------------------------------------
 ## Purpose
@@ -9,7 +9,6 @@
 ## How To DownLoad
 폴더 다운로드 후 Unity Hub를 통해 실행시킬 수 있습니다.
 
---------------------------------------------------------------
 ## Scene Capture
-
+플레이 화면입니다.
 ![PlayingScene](https://user-images.githubusercontent.com/63995044/153813449-1be5740b-3d4e-4c03-be2b-4b1692b03bda.png)
